@@ -1,0 +1,191 @@
+{
+  "eyebrow": "READING RISK | FOR SWIMMERS",
+  "acronym": "CARE",
+  "tagline": "Read recovery",
+  "title": "CARE for Swimmers",
+  "deck": "Give recovery the same attention you gave the swim.",
+  "components_line": "Cover · Aftereffects · Relax · Escalate",
+  "who": "For anyone who swims: a morning dip, a long cold-water swim, a race, or a training session with friends. You are looking after your own recovery, and staying with the people you came with.",
+  "canonical": "https://www.openwaterswimming.com/learn/resources/care-for-swimmers",
+  "colophon": "Published by the World Open Water Swimming Association. This PDF is generated from the canonical WOWSA Learn guide, so the web and PDF versions always match.",
+  "intro_title": "CARE for Swimmers",
+  "intro": [
+    "CARE is a simple way to look after yourself after you get out, notice when recovery is not going as expected, and know when it is time to get more help.",
+    "Getting out does not mean your body has finished responding to the swim. Warmth, breathing, effort and heat load all keep settling for a while afterwards, and sometimes they settle in the wrong direction.",
+    "This is about you, and about staying connected with the people you swam with. It is not about monitoring anyone or deciding whether someone else is fine."
+  ],
+  "components_sub": "Cover · Aftereffects · Relax · Escalate",
+  "components": [
+    {
+      "letter": "C",
+      "name": "Cover",
+      "tagline": "Respond to the conditions you just came out of.",
+      "body": [
+        "Cover runs in two directions. After a cold swim the aim is to stop losing more heat. After a hot or hard swim the aim is to start coming down. What you need depends on the swim you actually did, so a short summer dip and a long cold-water swim do not need identical care.",
+        "Wind and exposure matter as much as water temperature. Getting somewhere sheltered before you start changing usually beats changing where you stand."
+      ],
+      "ask": "What does my body need from the environment right now: warmth, cooling, shelter, or simply time?",
+      "look_for": [
+        "After cold: wind, spray or rain still working on you while you stand at the water's edge.",
+        "After cold: how far away your dry layers actually are.",
+        "After heat or hard effort: direct sun, no shade, nothing to drink.",
+        "Either way: whether you are settling or still being pushed further in one direction."
+      ],
+      "if_changes": [
+        "For cold: get out of the wind, get dry when it is practical, add dry insulation, and move somewhere sheltered.",
+        "For heat: move out of direct heat, find shade or somewhere cooler, begin cooling, and drink if you are alert and able to.",
+        "Do not undress in the wind just because that is where you stopped walking.",
+        "Rewarming after cold works better gradually than in a rush."
+      ],
+      "note": ""
+    },
+    {
+      "letter": "A",
+      "name": "Aftereffects",
+      "tagline": "Keep noticing after you get out.",
+      "body": [
+        "The swim may be over, but how you feel can still change. After significant cold exposure some people become colder during early recovery rather than warmer. After heavy exertion or heat exposure some people feel worse rather than better as recovery continues.",
+        "Feeling fine in the first minute at the water's edge is not the whole story. It does not mean something is wrong. It means the first impression is not the last word."
+      ],
+      "ask": "Am I settling back toward normal, or am I getting worse instead of better?",
+      "look_for": [
+        "Shivering getting stronger rather than easing.",
+        "Getting more sluggish instead of steadier.",
+        "Unusual confusion, or trouble coordinating your movements.",
+        "A headache or nausea that is worsening.",
+        "Breathing that stays difficult, or gets worse, after you have stopped."
+      ],
+      "if_changes": [
+        "Stay where there are people. Say what you have noticed rather than working through it quietly.",
+        "Give recovery more time before you drive, cycle or head off on your own.",
+        "Sometimes the people you swam with notice a change too. It is okay to say something to them, and okay for them to say something to you.",
+        "If it is getting worse rather than better, treat that as the signal to get help."
+      ],
+      "note": ""
+    },
+    {
+      "letter": "R",
+      "name": "Relax",
+      "tagline": "Give recovery some room.",
+      "body": [
+        "This does not mean you must sit still. It means leaving the water does not instantly reset the body: heart rate, breathing, blood flow and temperature are all still adjusting for a while.",
+        "If you are in a triathlon or another planned transition, continued effort is part of the activity and that is a different thing. The distinction worth keeping is between exertion that is genuinely part of the plan and exertion created by poor logistics, like sprinting up a beach because your clothes are three hundred meters away."
+      ],
+      "ask": "Do I need to rush into the next thing, or can I give myself a moment to recover first?",
+      "look_for": [
+        "A dash to the car park, the bag drop or the changing rooms straight after a hard swim.",
+        "A steep or awkward route between the exit and where your things are.",
+        "Cold or heat making it feel urgent to get moving before you have settled.",
+        "A plan for the rest of the day that starts the second you are out."
+      ],
+      "if_changes": [
+        "Let warmth, cooling, breathing and effort settle before the next demanding thing.",
+        "Make the next thing you do deliberate rather than automatic.",
+        "Leave your dry clothes and drink somewhere you can reach easily when you get out.",
+        "If further effort is genuinely part of the day, plan for it rather than stumbling into it."
+      ],
+      "note": ""
+    },
+    {
+      "letter": "E",
+      "name": "Escalate",
+      "tagline": "Know when ordinary recovery is not enough.",
+      "body": [
+        "You do not need to know what is wrong, and you should not try to diagnose anything. The principle is simpler: if something is serious, worsening, persistent, or clearly not settling, get help.",
+        "For suspected serious heat illness, confusion or other changes in how someone is thinking and responding are important emergency signs. Someone with heat stroke may still be sweating, so sweating or not sweating is not the thing to decide on."
+      ],
+      "ask": "Is this settling normally, or do I need more help than I can give myself here?",
+      "look_for": [
+        "Confusion or unusual behavior, in yourself or someone with you.",
+        "Reduced responsiveness, abnormal or slurred speech, loss of coordination.",
+        "Significant difficulty breathing, or a cough that will not settle.",
+        "Chest discomfort.",
+        "A serious allergic reaction, or bleeding that will not stop.",
+        "Anything else that feels beyond ordinary post-swim recovery."
+      ],
+      "if_changes": [
+        "Get appropriate medical help rather than waiting to see whether it passes.",
+        "Do not drive yourself anywhere while something serious is unresolved.",
+        "Stay with the person, or ask someone to stay with you.",
+        "You do not need to know what the diagnosis is to help someone get appropriate care."
+      ],
+      "note": ""
+    }
+  ],
+  "decision": {
+    "title": "How is recovery going?",
+    "lede": [
+      "You are answering this over the first part of your recovery, not once at the water's edge. What matters is whether things are moving back toward normal."
+    ],
+    "options": [
+      {
+        "label": "RECOVER",
+        "lede": "Things are settling",
+        "body": [
+          "Warm up or cool down, take your time, and continue with your normal recovery."
+        ]
+      },
+      {
+        "label": "KEEP CHECKING IN",
+        "lede": "Something deserves more attention",
+        "body": [
+          "Give recovery more time, stay with the people you are with, and keep noticing whether things are improving or worsening."
+        ]
+      },
+      {
+        "label": "GET HELP",
+        "lede": "Beyond ordinary recovery",
+        "body": [
+          "Something is serious, worsening, or not resolving. Move beyond ordinary post-swim care and get appropriate medical help."
+        ]
+      }
+    ],
+    "override": "When serious warning signs are there, this is not a wait and see moment. Get help, and let someone else decide it was nothing.",
+    "quick_check": "Think about your last cold or hard swim. How long did you keep paying attention after you got out, and what would have made the first twenty minutes easier?"
+  },
+  "extra": null,
+  "compound": {
+    "lede": [
+      "Recovery risk depends on what you carry out of the water and what you meet when you get there. None of these facts should be read alone."
+    ],
+    "items": [
+      "The swim was long, and the water was cold.",
+      "You are tired.",
+      "Your dry clothing is a long way from the exit.",
+      "The wind has picked up since you got in."
+    ],
+    "close": "Together they describe a tired, cold swimmer with a long exposed walk before anything improves. What do the swim, the conditions and how I feel add up to now?"
+  },
+  "next": [
+    {
+      "kind": "Primary",
+      "label": "Explore Compound Risk for Swimmers",
+      "desc": "The lens across all four stages: reading the whole picture rather than one factor at a time.",
+      "url": "https://www.openwaterswimming.com/learn/resources/compound-risk-for-swimmers"
+    },
+    {
+      "kind": "Related",
+      "label": "Revisit FLOW for Swimmers",
+      "desc": "Noticing change while you are still in the water.",
+      "url": "https://www.openwaterswimming.com/learn/resources/flow-for-swimmers"
+    },
+    {
+      "kind": "Explore",
+      "label": "Explore the Reading Risk guides",
+      "desc": "CHECK, ABLE, FLOW and CARE, written for swimmers, coaches and organizers.",
+      "url": "https://www.openwaterswimming.com/learn/resources"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wilderness Medical Society, clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia",
+      "url": "https://www.wildmedcenter.com/uploads/5/9/8/2/5982510/wms_hypothermia_2019.pdf"
+    },
+    {
+      "label": "CDC NIOSH, heat stress related illnesses",
+      "url": "https://www.cdc.gov/niosh/heat-stress/about/illnesses.html"
+    }
+  ],
+  "slug": "care-for-swimmers",
+  "filename": "care-for-swimmers.pdf"
+}

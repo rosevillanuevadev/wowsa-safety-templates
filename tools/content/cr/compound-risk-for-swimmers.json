@@ -1,0 +1,303 @@
+{
+  "eyebrow": "READING RISK | FOR SWIMMERS",
+  "acronym": "Compound Risk",
+  "tagline": "Read the whole picture",
+  "title": "Compound Risk for Swimmers",
+  "deck": "One thing may be manageable. Several together can change the decision. Read each factor. Then read what they mean together.",
+  "components_line": "",
+  "who": "The whole picture is personal. Two swimmers can stand at the same water's edge and be looking at different swims. Experience, sleep, distance, temperature, pace and how you feel today all change the picture. Compound Risk is a reminder to look at the combination rather than searching for one reason to go or one reason to stop.",
+  "canonical": "https://www.openwaterswimming.com/learn/resources/compound-risk-for-swimmers",
+  "colophon": "Published by the World Open Water Swimming Association. This PDF is generated from the canonical WOWSA Learn guide, so the web and PDF versions always match.",
+  "intro_title": "Compound Risk for Swimmers",
+  "intro": [
+    "Compound Risk is what happens when several factors interact and create a different situation than any one factor would create on its own.",
+    "One concern may be manageable. Another may also be manageable. Together they can change your margin for error, how well your usual precautions work, how hard a response would be, and whether the swim you planned still makes sense.",
+    "The second factor can change the meaning of the first."
+  ],
+  "decision": {
+    "title": "What does the whole picture say?",
+    "lede": [
+      "This is not a scoring system. It is a moment to look at the combination and decide what fits today."
+    ],
+    "options": [
+      {
+        "label": "KEEP THE PLAN",
+        "lede": "The picture still matches what you prepared for",
+        "body": [
+          "The combination still feels well within what you expected and prepared for."
+        ]
+      },
+      {
+        "label": "CHANGE THE PLAN",
+        "lede": "Adjust the swim to the day",
+        "body": [
+          "Several factors together suggest a shorter, easier, closer, slower or otherwise adjusted swim."
+        ]
+      },
+      {
+        "label": "CHOOSE ANOTHER DAY",
+        "lede": "This is not today's swim",
+        "body": [
+          "The combination no longer feels like the swim you want to take on today."
+        ]
+      }
+    ],
+    "override": "Changing your mind because the whole picture changed is good judgment.",
+    "quick_check": "Think about a swim where something felt off. Was it one factor, or was it two or three ordinary things happening at once?"
+  },
+  "next": [
+    {
+      "kind": "Primary",
+      "label": "Explore all Reading Risk guides",
+      "desc": "CHECK, ABLE, FLOW, CARE and Compound Risk, written for swimmers, coaches and organizers.",
+      "url": "https://www.openwaterswimming.com/learn/resources"
+    },
+    {
+      "kind": "Related",
+      "label": "Return to CHECK for Swimmers",
+      "desc": "Reading the conditions before you get in, one factor at a time.",
+      "url": "https://www.openwaterswimming.com/learn/resources/check-framework-for-swimmers"
+    },
+    {
+      "kind": "Explore",
+      "label": "Open Water Swimming Foundations",
+      "desc": "A swimmer course built on the same framework. Coming soon.",
+      "url": "https://www.openwaterswimming.com/learn"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Tipton and Bradford, cold and warm water immersion: a review of the physiological responses relevant to open water swimming",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4052348/"
+    }
+  ],
+  "sections": [
+    {
+      "key": "WHY IT MATTERS",
+      "lede": "Open water rarely gives you one thing at a time.",
+      "body": [
+        "A colder day. Less sleep. Poorer visibility. A longer swim. A group spreading out. None of these automatically means stop. But each one changes the context for the others.",
+        "Reading the whole picture means noticing when a collection of manageable factors has become a different situation. The goal is not to find as many reasons as possible not to swim. It is to see enough of the picture to make a better decision."
+      ],
+      "blocks": []
+    },
+    {
+      "key": "HOW IT WORKS",
+      "lede": "One factor can change another.",
+      "body": [
+        "These are illustrations of interaction, not equations. Your combination will be your own."
+      ],
+      "blocks": [
+        {
+          "kind": "group",
+          "title": "Visibility"
+        },
+        {
+          "kind": "bullets",
+          "items": [
+            "Reduced visibility: alone may be manageable.",
+            "A group spreading farther apart: and visibility matters more.",
+            "Less support than expected: and the same visibility may now need a different plan."
+          ],
+          "close": ""
+        },
+        {
+          "kind": "group",
+          "title": "Exposure"
+        },
+        {
+          "kind": "bullets",
+          "items": [
+            "Cold water: may be familiar.",
+            "A longer-than-usual swim: and exposure changes.",
+            "Poor sleep or unusual fatigue: and the same swim may deserve a different decision."
+          ],
+          "close": ""
+        },
+        {
+          "kind": "group",
+          "title": "Wind"
+        },
+        {
+          "kind": "bullets",
+          "items": [
+            "Increasing wind: may be manageable.",
+            "Already becoming tired: and the effort left changes.",
+            "A longer return leg: and what looked manageable earlier can become something else."
+          ],
+          "close": ""
+        }
+      ]
+    },
+    {
+      "key": "THE METHOD",
+      "lede": "Read the whole picture in three moves.",
+      "body": [
+        "The same three moves work before you get in, while you are swimming, and after you get out."
+      ],
+      "blocks": [
+        {
+          "kind": "step",
+          "number": "1",
+          "title": "Read each factor",
+          "question": "What is happening?",
+          "body": [
+            "Use CHECK, ABLE, FLOW and CARE to notice the individual pieces: the conditions, how you feel, what has changed, and what recovery will ask of you."
+          ]
+        },
+        {
+          "kind": "step",
+          "number": "2",
+          "title": "Connect the factors",
+          "question": "Does one of these make another harder to manage?",
+          "body": [
+            "This is the move most of us skip. Take two things you have already noticed and put them next to each other."
+          ]
+        },
+        {
+          "kind": "bullets",
+          "items": [
+            "Does poorer visibility make a spread-out group matter more?",
+            "Does tiredness make the current more consequential?",
+            "Does cold exposure make a long walk to dry clothes matter more?"
+          ],
+          "close": ""
+        },
+        {
+          "kind": "step",
+          "number": "3",
+          "title": "Reassess the decision",
+          "question": "Knowing all of this together, does the original plan still fit?",
+          "body": [
+            "Not whether each factor passed on its own, but whether the swim you planned is still the swim in front of you."
+          ]
+        }
+      ]
+    },
+    {
+      "key": "THE PRINCIPLE",
+      "lede": "Acceptable is provisional.",
+      "body": [
+        "Something you judged manageable earlier does not stay automatically manageable when something else changes. When another factor becomes borderline, go back and look at the combination rather than stacking one small adjustment on top of another."
+      ],
+      "blocks": [
+        {
+          "kind": "note",
+          "text": "There is no fixed count. When concerns interact, reduce your margin, or make existing controls less effective, step back and reassess the whole picture."
+        }
+      ]
+    },
+    {
+      "key": "SCENARIOS",
+      "lede": "A familiar swim on a different day",
+      "body": [],
+      "blocks": [
+        {
+          "kind": "bullets",
+          "items": [
+            "You know the route.",
+            "The water is colder than usual.",
+            "You slept badly.",
+            "You planned to swim farther than normal."
+          ],
+          "close": "None of those automatically means you should not swim. Together, they may be a good reason to choose the shorter version today."
+        },
+        {
+          "kind": "ask",
+          "text": "What does today's combination make me want to change?"
+        },
+        {
+          "kind": "group",
+          "title": "The picture changes while you are swimming"
+        },
+        {
+          "kind": "bullets",
+          "items": [
+            "The group has spread out.",
+            "The wind has increased.",
+            "You are more tired than expected.",
+            "The return leg is still ahead."
+          ],
+          "close": "The useful question is not which one is the problem. It is what these things mean together now."
+        },
+        {
+          "kind": "ask",
+          "text": "Does the swim I planned still fit the swim I have now?"
+        },
+        {
+          "kind": "group",
+          "title": "Recovery is part of the picture too"
+        },
+        {
+          "kind": "bullets",
+          "items": [
+            "The swim was longer than expected.",
+            "The water was cold.",
+            "The wind has picked up.",
+            "Your warm clothes are a long walk from the exit."
+          ],
+          "close": "Each factor changes what the others mean."
+        },
+        {
+          "kind": "ask",
+          "text": "What am I carrying out of the water, and what am I about to meet on shore?"
+        }
+      ]
+    },
+    {
+      "key": "ACROSS THE STAGES",
+      "lede": "",
+      "body": [],
+      "blocks": [
+        {
+          "kind": "bullets",
+          "items": [
+            "check (Read the Conditions): What environmental factors are present?",
+            "able (Read Readiness): What does the swimmer bring into those conditions?",
+            "flow (Read Change): What has changed since the swim began?",
+            "care (Read Recovery): What is the swimmer carrying out of the water?"
+          ],
+          "close": ""
+        }
+      ]
+    },
+    {
+      "key": "THE HABIT",
+      "lede": "Good judgment starts with noticing.",
+      "body": [
+        "Reading Risk is not about predicting everything that might happen. It is about noticing what matters, connecting information, and being willing to reconsider the plan."
+      ],
+      "blocks": [
+        {
+          "kind": "bullets",
+          "items": [
+            "Observation over assumption: Look at what is happening today, not only at what this place is normally like.",
+            "Curiosity over certainty: You do not need a complete explanation before asking another question.",
+            "Connection over checklists: What you notice becomes more useful when you see how the pieces relate.",
+            "Adaptation over ego: A changed plan is usually a sign you were paying attention, and it is worth saying out loud to the people you swim with."
+          ],
+          "close": ""
+        }
+      ]
+    },
+    {
+      "key": "COMPOUND RISK",
+      "lede": "Compound Risk is the lens across CHECK, ABLE, FLOW and CARE. It asks what all four are telling you together.",
+      "body": [],
+      "blocks": [
+        {
+          "kind": "bullets",
+          "items": [
+            "The water is colder than you are used to.",
+            "You slept badly.",
+            "The swim is longer than your usual.",
+            "The wind is building over the return leg."
+          ],
+          "close": "Each one is ordinary. Together they describe a different swim from the one you planned."
+        }
+      ]
+    }
+  ],
+  "slug": "compound-risk-for-swimmers",
+  "filename": "compound-risk-for-swimmers.pdf"
+}

@@ -1,0 +1,206 @@
+{
+  "eyebrow": "READING RISK | FOR SWIMMERS",
+  "acronym": "CHECK",
+  "tagline": "Read the conditions",
+  "title": "CHECK for Swimmers",
+  "deck": "Read the water in front of you before you commit to the swim you had in mind.",
+  "components_line": "Clarity · Hazards · Environment · Chemistry · Kinetics",
+  "who": "For anyone standing at the edge of open water: a quick dip, a regular pod swim, a long training swim, or a first visit to a venue you do not know yet.",
+  "canonical": "https://www.openwaterswimming.com/learn/resources/check-framework-for-swimmers",
+  "colophon": "Published by the World Open Water Swimming Association. This PDF is generated from the canonical WOWSA Learn guide, so the web and PDF versions always match.",
+  "intro_title": "CHECK for Swimmers",
+  "intro": [
+    "CHECK is the pre-swim read. Five ways of looking at the same water, resolving into one honest answer: swim it as planned, change the swim, or leave it for another day.",
+    "None of the five is a pass or fail test. They are prompts that surface what you already half noticed, early enough to act on it while you are still dry."
+  ],
+  "components_sub": "Clarity · Hazards · Environment · Chemistry · Kinetics",
+  "components": [
+    {
+      "letter": "C",
+      "name": "Clarity",
+      "tagline": "How well can you see, and be seen, in this water today?",
+      "body": [
+        "Clarity is visibility and findability. It covers how far you can see under the surface, how far you can see across it, and how easily someone on shore or in a craft could pick you out if they needed to.",
+        "Light, glare, surface chop, sediment, algae and weather all change it, and it can change within one swim as the sun drops or the wind gets up."
+      ],
+      "ask": "If I needed to be found right now, how easily could someone see me?",
+      "look_for": [
+        "Underwater visibility: whether you can see your own hand, the bottom, or nothing at all.",
+        "Surface visibility across the swim: haze, glare, low sun, rain or mist.",
+        "Whether anyone on shore can actually see the part of the water you are heading for.",
+        "How visible you will be: cap color, tow float where appropriate, and the light you will finish in."
+      ],
+      "if_changes": [
+        "Add visibility before you add distance: a bright cap, a tow float where it suits the swim, or a swim closer to shore.",
+        "Tell someone your route and your expected finish time, and tell them when you are out.",
+        "If you cannot be seen from where you will be swimming, change the route rather than the plan for being rescued.",
+        "Bring the swim forward or shorten it if the light is going."
+      ],
+      "note": "A swim that felt fine at four o'clock can be a different swim at six, in the same water, with the same swimmer."
+    },
+    {
+      "letter": "H",
+      "name": "Hazards",
+      "tagline": "What here could hurt you or make this swim harder than you expect?",
+      "body": [
+        "Hazards are the specific things in and around this water that could cause harm: boat traffic, weed, submerged structures, rocks, sudden depth changes, jellyfish, difficult entries and exits, or a shoreline you cannot climb out of once you are past it."
+      ],
+      "ask": "What is in this water, and what would I do if I met it?",
+      "look_for": [
+        "Boat, jet ski and paddle traffic, and whether swimmers are expected here at all.",
+        "Entry and exit points, and whether the ones you plan to use are actually usable today.",
+        "Weed beds, rocks, drop-offs, submerged debris and slipways.",
+        "Local warnings, signage or advice from people who swim here regularly."
+      ],
+      "if_changes": [
+        "Route around the hazard rather than through it, even if it makes the swim longer.",
+        "Walk the exit you intend to use before you rely on it.",
+        "Stay inside a line where a boat operator can reasonably expect a swimmer to be.",
+        "If you do not know the venue, ask someone who does before you go far from shore."
+      ],
+      "note": ""
+    },
+    {
+      "letter": "E",
+      "name": "Environment",
+      "tagline": "Read the venue and the day, not the memory of last time.",
+      "body": [
+        "Environment is temperature, weather, wind, light and the venue itself. Air temperature, wind and shelter at the exit matter too, because cooling can continue after you leave the water."
+      ],
+      "ask": "Is this the same venue I remember, in the conditions that exist right now?",
+      "look_for": [
+        "Water temperature, and how it compares to what you are used to swimming in.",
+        "Air temperature, wind chill and shelter at the exit point.",
+        "Weather that is due to change during the swim window.",
+        "Whether the venue has changed since last time: new debris, altered banks, higher or lower water."
+      ],
+      "if_changes": [
+        "Adjust the length of the swim to the water temperature, conditions, exposure and what you are used to.",
+        "Set out warm clothing and a hot drink before you get in, not after.",
+        "Swim into the wind first where you can, so the harder half is the early half.",
+        "If the venue has changed, treat it as a new venue."
+      ],
+      "note": ""
+    },
+    {
+      "letter": "C",
+      "name": "Chemistry",
+      "tagline": "Consider what you are swimming in, not just how it looks.",
+      "body": [
+        "Chemistry is water quality and exposure. Recent heavy rain, storm overflows, agricultural runoff, algal blooms and stagnant warm water can all change the health risk of the same familiar spot.",
+        "Clear water is not proof of clean water, and murky water is not always contaminated. Look for information about the venue rather than judging by appearance alone."
+      ],
+      "ask": "Has anything happened recently that would change what is in this water?",
+      "look_for": [
+        "Recent heavy rainfall, known discharge, runoff, or local guidance that identifies a current concern.",
+        "Visible algal bloom, discoloration, foam, scum or an unusual smell.",
+        "Published bathing water quality information or local advisories for this venue.",
+        "Whether you have any open wound, recent illness or reason to be more cautious than usual."
+      ],
+      "if_changes": [
+        "Postpone rather than accept an active advisory or a visible bloom.",
+        "Avoid swallowing water, and rinse and wash after the swim.",
+        "If you have an open cut or wound, check current health guidance for the water. Stay out where advised, or completely cover the wound with a waterproof bandage where that is appropriate.",
+        "If you feel unwell in the days after a swim, mention the swim to a clinician."
+      ],
+      "note": ""
+    },
+    {
+      "letter": "K",
+      "name": "Kinetics",
+      "tagline": "Read how the water is moving, and where it will take you.",
+      "body": [
+        "Kinetics is movement: tide, current, swell, chop, river flow and wind against water. Moving water decides how much of your swim is optional. A swim that goes out easily can be a swim you cannot come back from."
+      ],
+      "ask": "If I stopped swimming here, where would the water take me?",
+      "look_for": [
+        "Tide state and turn times, and how they change during the swim window.",
+        "Current direction and strength, including river flow after rain.",
+        "Wind against tide or current, which builds steep, short chop.",
+        "Whether the return leg is the harder leg."
+      ],
+      "if_changes": [
+        "Swim the harder direction first, while you are freshest.",
+        "Pick a route where the water moves you toward an exit, not away from one.",
+        "Set a turnaround point and a turnaround time before you get in.",
+        "If you cannot describe where the water would carry you, that is the reason to stay closer to shore."
+      ],
+      "note": ""
+    }
+  ],
+  "decision": {
+    "title": "You read five things. Now make one decision.",
+    "lede": [
+      "Do not average the five. Read them together and decide what swim actually fits the water in front of you today."
+    ],
+    "options": [
+      {
+        "label": "GO",
+        "lede": "Swim it as planned",
+        "body": [
+          "Nothing in the five stands out, the conditions match what you prepared for, and someone knows where you are and when you will be out."
+        ]
+      },
+      {
+        "label": "MODIFY",
+        "lede": "Change the swim, not the decision to swim",
+        "body": [
+          "One or more inputs suggest a shorter, closer, brighter or better supported version of the same swim. Change the swim before you get in, not halfway through it."
+        ]
+      },
+      {
+        "label": "NO SWIM TODAY",
+        "lede": "Leave it for another day",
+        "body": [
+          "An active water quality advisory, conditions well beyond your experience, no usable exit, or a movement of water you cannot account for. The water will be there next week."
+        ]
+      }
+    ],
+    "override": "One serious concern is enough on its own. It does not need to be outvoted by four things that looked fine.",
+    "quick_check": "Think about your last swim here. Which of the five did you assume rather than actually look at?"
+  },
+  "extra": null,
+  "compound": {
+    "lede": [
+      "The five inputs interact. Each one can look acceptable while the combination changes the swim."
+    ],
+    "items": [
+      "Visibility is a little lower than usual.",
+      "The wind has picked up slightly.",
+      "The water is a couple of degrees colder than last week."
+    ],
+    "close": "Together they describe a swim where you are harder to see, working harder, and cooling faster than planned. Read the combination, not the list."
+  },
+  "next": [
+    {
+      "kind": "Primary",
+      "label": "Continue with ABLE",
+      "desc": "You read the water. Now read yourself, at the water's edge.",
+      "url": "https://www.openwaterswimming.com/learn/resources/able-for-swimmers"
+    },
+    {
+      "kind": "Related",
+      "label": "Compound Risk for Swimmers",
+      "desc": "How several acceptable factors combine into one that is not.",
+      "url": "https://www.openwaterswimming.com/learn/resources/compound-risk-for-swimmers"
+    },
+    {
+      "kind": "Explore",
+      "label": "Explore all Reading Risk guides",
+      "desc": "Fifteen guides for swimmers, coaches and organizers.",
+      "url": "https://www.openwaterswimming.com/learn/resources"
+    }
+  ],
+  "sources": [
+    {
+      "label": "CDC, how to safely visit oceans, lakes and rivers",
+      "url": "https://www.cdc.gov/healthy-swimming/safety/how-to-safely-visit-oceans-lakes-and-rivers.html"
+    },
+    {
+      "label": "Tipton and Bradford, cold and warm water immersion: a review of the physiological responses relevant to open water swimming",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4052348/"
+    }
+  ],
+  "slug": "check-framework-for-swimmers",
+  "filename": "check-framework-for-swimmers.pdf"
+}

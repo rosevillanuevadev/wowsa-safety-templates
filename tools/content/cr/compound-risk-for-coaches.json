@@ -1,0 +1,325 @@
+{
+  "eyebrow": "READING RISK | FOR COACHES",
+  "acronym": "Compound Risk",
+  "tagline": "Read the whole picture",
+  "title": "Compound Risk for Coaches",
+  "deck": "One thing may be manageable. Several together can change the decision. Read each factor. Then read what they mean together.",
+  "components_line": "",
+  "who": "For coaches running sessions in open water. Compound Risk integrates what you already assess: conditions, individual readiness, group characteristics, positioning and coverage, changes during the session, and recovery.",
+  "canonical": "https://www.openwaterswimming.com/learn/resources/compound-risk-for-coaches",
+  "colophon": "Published by the World Open Water Swimming Association. This PDF is generated from the canonical WOWSA Learn guide, so the web and PDF versions always match.",
+  "intro_title": "Compound Risk for Coaches",
+  "intro": [
+    "Compound Risk is what happens when several factors interact and create a different situation than any one factor would create on its own.",
+    "One concern may be manageable. Another may also be manageable. Together they can change the margin for error, how effective an existing precaution is, how difficult a response becomes, and whether the session plan still makes sense.",
+    "The second factor can change the meaning of the first."
+  ],
+  "decision": {
+    "title": "Re-evaluate the session, not just each factor.",
+    "lede": [
+      "This is a judgment about the combination. It is not a score, and Full Re-evaluation does not automatically mean cancel."
+    ],
+    "options": [
+      {
+        "label": "PROCEED",
+        "lede": "Standard monitoring",
+        "body": [
+          "The overall picture remains comfortably manageable."
+        ]
+      },
+      {
+        "label": "MODIFY",
+        "lede": "Restore the margin",
+        "body": [
+          "The combination requires a specific change to restore margin: shorten, tighten the course, reposition support, pair swimmers, or change the set."
+        ]
+      },
+      {
+        "label": "FULL RE-EVALUATION",
+        "lede": "A fresh decision, not another adjustment",
+        "body": [
+          "Several concerns are interacting and the session needs a fresh decision. Outcomes may include continuing with substantial changes, shortening, regrouping, repositioning support, changing route, removing a swimmer, or ending the session."
+        ]
+      }
+    ],
+    "override": "There is no fixed count. When concerns interact, reduce your margin, or make existing controls less effective, step back and reassess the whole session.",
+    "quick_check": "Think about your last session with two borderline factors. Did you adjust for each one separately, or did you step back and look at the combination?"
+  },
+  "next": [
+    {
+      "kind": "Primary",
+      "label": "Explore Safe Coach Foundations",
+      "desc": "Two courses in decision making and risk management, built on CHECK, ABLE, FLOW and CARE.",
+      "url": "https://www.openwaterswimming.com/learn/courses/safe-coach"
+    },
+    {
+      "kind": "Related",
+      "label": "Explore all Reading Risk guides",
+      "desc": "Fifteen guides for swimmers, coaches and organizers.",
+      "url": "https://www.openwaterswimming.com/learn/resources"
+    },
+    {
+      "kind": "Explore",
+      "label": "Return to CHECK for Coaches",
+      "desc": "Reading the conditions before anyone enters the water.",
+      "url": "https://www.openwaterswimming.com/learn/resources/check-framework-for-coaches"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Core temperature responses during cold-water triathlon swimming, showing wide individual variation",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8234067/"
+    },
+    {
+      "label": "Tipton and Bradford, cold and warm water immersion: a review of the physiological responses relevant to open water swimming",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4052348/"
+    }
+  ],
+  "sections": [
+    {
+      "key": "WHY IT MATTERS",
+      "lede": "A session can change without any single factor becoming extreme.",
+      "body": [
+        "A colder day. A newer group. Slightly reduced visibility. A longer set. Thinner coverage than usual. None of these automatically means stop. But each one changes the context for the others.",
+        "Coaches often manage individual concerns successfully. Compound Risk asks the harder question: what happens when several of those concerns exist at the same time? Reduced clarity, thinner coverage, a newer group and degrading weather may each be manageable alone, and still require you to evaluate the combination directly."
+      ],
+      "blocks": []
+    },
+    {
+      "key": "HOW IT WORKS",
+      "lede": "One factor can change another.",
+      "body": [
+        "These are illustrations of interaction, not equations. They show how an accepted factor can change meaning when a second one appears."
+      ],
+      "blocks": [
+        {
+          "kind": "group",
+          "title": "Visibility"
+        },
+        {
+          "kind": "bullets",
+          "items": [
+            "Reduced visibility: alone may be manageable.",
+            "A group spreading farther apart: and visibility matters more.",
+            "Less support than planned: and the same visibility may now require a different plan."
+          ],
+          "close": ""
+        },
+        {
+          "kind": "group",
+          "title": "Exposure"
+        },
+        {
+          "kind": "bullets",
+          "items": [
+            "Cold water: may be within the group's usual range.",
+            "A longer-than-usual session: and exposure changes.",
+            "A swimmer arriving tired or under-fueled: and the same water asks something different of them."
+          ],
+          "close": ""
+        },
+        {
+          "kind": "group",
+          "title": "Wind"
+        },
+        {
+          "kind": "bullets",
+          "items": [
+            "Increasing wind: may be manageable.",
+            "Swimmers already tiring: and pace and spread change.",
+            "A longer return leg: and what looked manageable earlier can become something else."
+          ],
+          "close": ""
+        }
+      ]
+    },
+    {
+      "key": "THE METHOD",
+      "lede": "Read the whole picture in three moves.",
+      "body": [
+        "The same three moves work at the briefing, mid-session and at the exit. Only the information changes."
+      ],
+      "blocks": [
+        {
+          "kind": "step",
+          "number": "1",
+          "title": "Read each factor",
+          "question": "What is happening?",
+          "body": [
+            "Use CHECK, ABLE, FLOW and CARE to notice the individual pieces: conditions, swimmer readiness, change during the session, and recovery."
+          ]
+        },
+        {
+          "kind": "step",
+          "number": "2",
+          "title": "Connect the factors",
+          "question": "Does one of these make another harder to manage?",
+          "body": [
+            "Ask what each factor does to your safety margin, your coverage and your ability to respond."
+          ]
+        },
+        {
+          "kind": "bullets",
+          "items": [
+            "Does poor visibility make thin coverage more important?",
+            "Does fatigue make the current more consequential?",
+            "Does cold exposure make a long recovery walk matter more?"
+          ],
+          "close": ""
+        },
+        {
+          "kind": "step",
+          "number": "3",
+          "title": "Reassess the decision",
+          "question": "Knowing all of this together, does the original plan still fit?",
+          "body": [
+            "Not whether each factor passed on its own, but whether the session as planned still matches the situation in front of you."
+          ]
+        }
+      ]
+    },
+    {
+      "key": "THE PRINCIPLE",
+      "lede": "Acceptable is provisional.",
+      "body": [
+        "A factor judged manageable earlier does not stay automatically manageable when something else changes. When another factor becomes borderline, go back and look at the combination rather than stacking one small modification on top of another."
+      ],
+      "blocks": [
+        {
+          "kind": "note",
+          "text": "There is no fixed count. When concerns interact, reduce your margin, or make existing controls less effective, step back and reassess the whole picture. Several small adjustments do not automatically preserve the original margin."
+        }
+      ]
+    },
+    {
+      "key": "SCENARIOS",
+      "lede": "Visibility, experience and coverage",
+      "body": [],
+      "blocks": [
+        {
+          "kind": "bullets",
+          "items": [
+            "Visibility is slightly reduced.",
+            "The group includes several newer swimmers.",
+            "Safety coverage is thinner than usual."
+          ],
+          "close": "Each one has a reasonable adjustment. The mistake is assuming that three minor adjustments automatically preserve the same safety margin."
+        },
+        {
+          "kind": "ask",
+          "text": "What does each factor make harder about the others?"
+        },
+        {
+          "kind": "group",
+          "title": "Temperature, swimmer and duration"
+        },
+        {
+          "kind": "bullets",
+          "items": [
+            "The water temperature is within a range the group has used before.",
+            "One swimmer has a smaller body size and plans a longer exposure.",
+            "The session is longer than usual."
+          ],
+          "close": "The same environmental condition can have different implications depending on the swimmer and the duration. This is not a prediction or a diagnosis about any individual, and it is not a threshold. It is a reason to plan the session around the person for whom the combination is most demanding."
+        },
+        {
+          "kind": "ask",
+          "text": "Who may experience this combination differently from the rest of the group?"
+        },
+        {
+          "kind": "group",
+          "title": "Change reopens the earlier decision"
+        },
+        {
+          "kind": "bullets",
+          "items": [
+            "CHECK was acceptable.",
+            "ABLE was acceptable.",
+            "Thirty minutes later, visibility has worsened, several swimmers have spread, one swimmer is slowing, and support is farther away than planned."
+          ],
+          "close": "The question is not whether CHECK passed. The earlier reading described an earlier situation."
+        },
+        {
+          "kind": "ask",
+          "text": "What does the whole picture say now?"
+        }
+      ]
+    },
+    {
+      "key": "ACROSS THE STAGES",
+      "lede": "Cold water, body size and duration A study of core temperature during cold-water triathlon swimming found substantial variation between individuals. Most participants did not become hypothermic, while one low-BMI participant completing a long swim developed measurable hypothermia despite wearing a wetsuit. Read it as an illustration of how person, duration and conditions interact, not as a threshold or a prediction.",
+      "body": [],
+      "blocks": [
+        {
+          "kind": "bullets",
+          "items": [
+            "check (Read the Conditions): What environmental factors are present?",
+            "able (Read Readiness): What does the swimmer bring into those conditions?",
+            "flow (Read Change): What has changed since the swim began?",
+            "care (Read Recovery): What is the swimmer carrying out of the water?"
+          ],
+          "close": "Lesson: Treat this as an illustration of how condition, person and duration interact, not as a rule, a threshold or a prediction about any swimmer."
+        }
+      ]
+    },
+    {
+      "key": "THE HABIT",
+      "lede": "Good judgment starts with noticing.",
+      "body": [
+        "Reading Risk is not about predicting everything that might happen. It is about noticing what matters, connecting information, and being willing to reconsider the plan you arrived with."
+      ],
+      "blocks": [
+        {
+          "kind": "bullets",
+          "items": [
+            "Observation over assumption: Coach the session in front of you, not the session this venue usually gives you.",
+            "Curiosity over certainty: You do not need a complete explanation before asking another question or moving closer.",
+            "Connection over checklists: Individual observations become useful when you see how they relate to each other.",
+            "Adaptation over ego: A changed plan is often evidence that your judgment, and your system, are working."
+          ],
+          "close": ""
+        }
+      ]
+    },
+    {
+      "key": "WRITE IT DOWN",
+      "lede": "Record the combination, not only the outcome.",
+      "body": [
+        "When several factors influence a decision together, the reasoning is the part that is easiest to lose and the part most worth keeping."
+      ],
+      "blocks": [
+        {
+          "kind": "bullets",
+          "items": [
+            "Date, location, session and group",
+            "The factors you considered together",
+            "How they interacted",
+            "The modification or decision made",
+            "Why: what the combination changed",
+            "Who made the call A short note written at the time is worth more than a detailed reconstruction later."
+          ],
+          "close": ""
+        }
+      ]
+    },
+    {
+      "key": "COMPOUND RISK",
+      "lede": "Compound Risk is the lens across CHECK, ABLE, FLOW and CARE. It asks what all four are telling you together.",
+      "body": [],
+      "blocks": [
+        {
+          "kind": "bullets",
+          "items": [
+            "Visibility is marginal.",
+            "Coverage is thinner than planned.",
+            "Several swimmers are new to the group.",
+            "The weather is slowly degrading."
+          ],
+          "close": "Each is individually manageable. Together they describe a session that needs a decision, not four separate adjustments."
+        }
+      ]
+    }
+  ],
+  "slug": "compound-risk-for-coaches",
+  "filename": "compound-risk-for-coaches.pdf"
+}

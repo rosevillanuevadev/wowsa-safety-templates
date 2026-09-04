@@ -1,0 +1,322 @@
+{
+  "eyebrow": "READING RISK | FOR ORGANIZERS",
+  "acronym": "Compound Risk",
+  "tagline": "Read the whole picture",
+  "title": "Compound Risk for Organizers",
+  "deck": "One thing may be manageable. Several together can change the decision. Read each factor. Then read what they mean together.",
+  "components_line": "",
+  "who": "For race directors, safety officers and event teams. Organizers already make these judgments. Reading Risk gives the whole team a shared vocabulary for connecting information across the operation.",
+  "canonical": "https://www.openwaterswimming.com/learn/resources/compound-risk-for-organizers",
+  "colophon": "Published by the World Open Water Swimming Association. This PDF is generated from the canonical WOWSA Learn guide, so the web and PDF versions always match.",
+  "intro_title": "Compound Risk for Organizers",
+  "intro": [
+    "Compound Risk is what happens when several factors interact and create a different situation than any one factor would create on its own.",
+    "One concern may be manageable. Another may also be manageable. Together they can change the margin for error, how effective an existing control is, how difficult a response becomes, and whether the operating plan still makes sense.",
+    "The second factor can change the meaning of the first."
+  ],
+  "decision": {
+    "title": "Connect the information before momentum makes the decision.",
+    "lede": [
+      "This is an operating judgment about the combination. Full re-evaluation does not automatically mean cancel."
+    ],
+    "options": [
+      {
+        "label": "PROCEED",
+        "lede": "Plan holds",
+        "body": [
+          "The combined operating picture remains well within the plan."
+        ]
+      },
+      {
+        "label": "MODIFY",
+        "lede": "Change a control",
+        "body": [
+          "The combination requires changes to course, coverage, timing, staffing, briefing or another operational control."
+        ]
+      },
+      {
+        "label": "FULL RE-EVALUATION",
+        "lede": "A system-level decision",
+        "body": [
+          "Multiple concerns are interacting and the operation needs a fresh decision. Outcomes may include changing safety deployment, modifying the course, delaying, shortening, stopping new entries, stopping the swim, or activating the EAP if an emergency exists."
+        ]
+      }
+    ],
+    "override": "The decision belongs to a named person with the authority to make it, and it should be made before schedule pressure makes it for you.",
+    "quick_check": "In your last event, who was responsible for combining reports from different sources into one operating picture, and did everyone know that?"
+  },
+  "next": [
+    {
+      "kind": "Primary",
+      "label": "Explore Safe Organizer Foundations",
+      "desc": "Event-level decision making and risk management, built on CHECK, ABLE, FLOW and CARE.",
+      "url": "https://www.openwaterswimming.com/learn/courses/safe-organizer"
+    },
+    {
+      "kind": "Related",
+      "label": "Explore all Reading Risk guides",
+      "desc": "Fifteen guides for swimmers, coaches and organizers.",
+      "url": "https://www.openwaterswimming.com/learn/resources"
+    },
+    {
+      "kind": "Explore",
+      "label": "Return to CHECK for Organizers",
+      "desc": "Reading the conditions before the field enters the water.",
+      "url": "https://www.openwaterswimming.com/learn/resources/check-framework-for-event-organizers"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Tipton and Bradford, cold and warm water immersion: a review of the physiological responses relevant to open water swimming",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4052348/"
+    }
+  ],
+  "sections": [
+    {
+      "key": "WHY IT MATTERS",
+      "lede": "An operation can change without any one part clearly failing.",
+      "body": [
+        "Wind rising. A field spreading. A safety craft drifting off station. Visibility declining. A start running late. None of these automatically means stop. But each one changes the context for the others.",
+        "Compound Risk asks the organizer to connect information across the whole operation rather than waiting for one variable to cross a single threshold. Good decisions rarely begin with confidence. They begin with curiosity and paying attention."
+      ],
+      "blocks": []
+    },
+    {
+      "key": "HOW IT WORKS",
+      "lede": "One factor can change another.",
+      "body": [
+        "These are illustrations of interaction, not equations. Each shows an accepted condition changing meaning when a second one appears."
+      ],
+      "blocks": [
+        {
+          "kind": "group",
+          "title": "Visibility"
+        },
+        {
+          "kind": "bullets",
+          "items": [
+            "Reduced visibility: alone may be manageable.",
+            "A field spreading wider than planned: and visibility matters more.",
+            "Safety assets already near the edge of their coverage: and the same visibility may now require a different plan."
+          ],
+          "close": ""
+        },
+        {
+          "kind": "group",
+          "title": "Exposure"
+        },
+        {
+          "kind": "bullets",
+          "items": [
+            "Water temperature within your stated limit: may be routine.",
+            "A long-distance event: and total exposure changes.",
+            "Falling air temperature and wind at the exit: and the same measurement means something different operationally."
+          ],
+          "close": ""
+        },
+        {
+          "kind": "group",
+          "title": "Timing"
+        },
+        {
+          "kind": "bullets",
+          "items": [
+            "A delayed start: may be an inconvenience.",
+            "Conditions building through the morning: and the swim window shifts.",
+            "Slower finishers still on course: and the plan now covers a period nobody planned for."
+          ],
+          "close": ""
+        }
+      ]
+    },
+    {
+      "key": "THE METHOD",
+      "lede": "Read the whole picture in three moves.",
+      "body": [
+        "The same three moves work in planning, at the start line, and while the event is running. Only the information changes."
+      ],
+      "blocks": [
+        {
+          "kind": "step",
+          "number": "1",
+          "title": "Read each factor",
+          "question": "What is happening?",
+          "body": [
+            "Use CHECK, ABLE, FLOW and CARE to gather the individual pieces: conditions, participant population, change during the event, and the exit and recovery."
+          ]
+        },
+        {
+          "kind": "step",
+          "number": "2",
+          "title": "Connect the factors",
+          "question": "Does one of these make another harder to manage?",
+          "body": [
+            "Ask what each factor does to detection, response time, coverage and the effectiveness of the controls you already have in place."
+          ]
+        },
+        {
+          "kind": "bullets",
+          "items": [
+            "Does poor visibility make thin coverage more important?",
+            "Does a spreading field make current more consequential?",
+            "Does cold exposure make a distant recovery area matter more?"
+          ],
+          "close": ""
+        },
+        {
+          "kind": "step",
+          "number": "3",
+          "title": "Reassess the decision",
+          "question": "Knowing all of this together, does the original plan still fit?",
+          "body": [
+            "Not whether each factor sits inside its own limit, but whether the operation as planned still matches the event you are running."
+          ]
+        }
+      ]
+    },
+    {
+      "key": "THE PRINCIPLE",
+      "lede": "Acceptable is provisional.",
+      "body": [
+        "A factor judged acceptable earlier does not stay automatically acceptable when something else changes. When a second factor becomes borderline, evaluate the combination rather than adding another isolated control on top of the last one."
+      ],
+      "blocks": [
+        {
+          "kind": "note",
+          "text": "There is no fixed count. When concerns interact, reduce your margin, or make existing controls less effective, step back and reassess the whole operating picture at system level."
+        }
+      ]
+    },
+    {
+      "key": "SCENARIOS",
+      "lede": "Field spread, visibility and coverage",
+      "body": [],
+      "blocks": [
+        {
+          "kind": "bullets",
+          "items": [
+            "Participants are spreading wider than expected.",
+            "Visibility is declining.",
+            "Safety assets are already working near the edge of their planned coverage."
+          ],
+          "close": "None of those facts should be assessed only in isolation. Together they describe your ability to find and reach someone."
+        },
+        {
+          "kind": "ask",
+          "text": "What does this combination do to our ability to find and reach someone who needs help?"
+        },
+        {
+          "kind": "group",
+          "title": "Conditions, duration and scale"
+        },
+        {
+          "kind": "bullets",
+          "items": [
+            "A condition sits within an established limit.",
+            "The event is long, and the field is large.",
+            "Wind, current, air temperature and support all vary through the swim window."
+          ],
+          "close": "A limit tells you about one variable. It does not tell you what that variable means for this distance, this field and today's conditions. Fixed maximum water-temperature policies that do not account for event distance are a familiar example of a control that reads one number and misses the operating picture."
+        },
+        {
+          "kind": "ask",
+          "text": "What important context is missing if we look only at the threshold?"
+        },
+        {
+          "kind": "group",
+          "title": "Multiple reports become one picture"
+        },
+        {
+          "kind": "bullets",
+          "items": [
+            "One safety craft reports increasing current.",
+            "Another reports swimmers spreading.",
+            "A third reports visibility becoming more difficult."
+          ],
+          "close": "Individually, none may trigger a dramatic response. Together they may be describing the same changing operation. Good systems make sure separate observations reach someone with the authority to act on them."
+        },
+        {
+          "kind": "ask",
+          "text": "Who is responsible for connecting separate observations into one operating picture?"
+        }
+      ]
+    },
+    {
+      "key": "ACROSS THE STAGES",
+      "lede": "",
+      "body": [],
+      "blocks": [
+        {
+          "kind": "bullets",
+          "items": [
+            "check (Read the Conditions): What environmental factors are present?",
+            "able (Read Readiness): What does the swimmer bring into those conditions?",
+            "flow (Read Change): What has changed since the swim began?",
+            "care (Read Recovery): What is the swimmer carrying out of the water?"
+          ],
+          "close": ""
+        }
+      ]
+    },
+    {
+      "key": "THE HABIT",
+      "lede": "Good judgment starts with noticing.",
+      "body": [
+        "Reading Risk is not about predicting everything that might happen. It is about noticing what matters, connecting information, and building a system capable of acting on it."
+      ],
+      "blocks": [
+        {
+          "kind": "bullets",
+          "items": [
+            "Observation over assumption: Run the event in front of you, not the event your plan describes.",
+            "Curiosity over certainty: A report does not need to be complete before someone follows up on it.",
+            "Connection over checklists: Separate observations become an operating picture only when someone puts them together.",
+            "Adaptation over ego: A changed plan is often evidence that the system is working, and it is easier to explain than an unchanged one."
+          ],
+          "close": ""
+        }
+      ]
+    },
+    {
+      "key": "WRITE IT DOWN",
+      "lede": "Record that the factors were considered together.",
+      "body": [
+        "When multiple factors shape a decision, the record should show the combination, not a list of separate boxes."
+      ],
+      "blocks": [
+        {
+          "kind": "bullets",
+          "items": [
+            "Date, event, and time of the decision",
+            "The factors considered together",
+            "How they interacted",
+            "The decision made",
+            "Who authorized it",
+            "Why: what the combination changed",
+            "Who was informed Written at the time, this is both an operational handover and the clearest account of your reasoning afterwards."
+          ],
+          "close": ""
+        }
+      ]
+    },
+    {
+      "key": "COMPOUND RISK",
+      "lede": "Compound Risk is the lens across CHECK, ABLE, FLOW and CARE. It asks what all four are telling you together.",
+      "body": [],
+      "blocks": [
+        {
+          "kind": "bullets",
+          "items": [
+            "The field is spreading wider than planned.",
+            "Visibility is declining.",
+            "Coverage is at the edge of its plan.",
+            "Conditions are building through the swim window."
+          ],
+          "close": "Each sits inside its own limit. Together they describe an operation with less ability to find and reach someone than the plan assumed."
+        }
+      ]
+    }
+  ],
+  "slug": "compound-risk-for-organizers",
+  "filename": "compound-risk-for-organizers.pdf"
+}

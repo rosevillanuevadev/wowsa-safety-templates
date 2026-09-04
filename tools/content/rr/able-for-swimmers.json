@@ -1,0 +1,204 @@
+{
+  "eyebrow": "READING RISK | FOR SWIMMERS",
+  "acronym": "ABLE",
+  "tagline": "Read readiness",
+  "title": "ABLE for Swimmers",
+  "deck": "Meet the water as you are today.",
+  "components_line": "Acclimate · Body Check · Locate · Equip",
+  "who": "For anyone who swims in open water: a quick dip with a friend, a regular pod, a first timer, a training partner, or someone swimming alone while a friend watches from shore. The aim is to check in with yourself, talk honestly with the people you are with, and make the swim fit who is actually there today.",
+  "canonical": "https://www.openwaterswimming.com/learn/resources/able-for-swimmers",
+  "colophon": "Published by the World Open Water Swimming Association. This PDF is generated from the canonical WOWSA Learn guide, so the web and PDF versions always match.",
+  "intro_title": "ABLE for Swimmers",
+  "intro": [
+    "CHECK is about the water and the day. ABLE is about you, right now, at the water's edge. It is a short pause before you set off.",
+    "ABLE is first a self-check. Notice how you are feeling, what you need, and whether the swim you had in mind still fits the person who is actually standing there. It also helps you look out for the people you are with, not because anyone is in charge, but because swimming together means paying attention to one another."
+  ],
+  "components_sub": "Acclimate · Body Check · Locate · Equip",
+  "components": [
+    {
+      "letter": "A",
+      "name": "Acclimate",
+      "tagline": "Give yourself a moment to settle in.",
+      "body": [
+        "Cold water can take your breath away for a few seconds, even if you are fit and experienced. Different swimmers acclimate differently. The point is not to pass a test. It is to notice your own response and give your body and mind a moment to arrive before swimming away from an easy exit."
+      ],
+      "ask": "Am I settling into the water the way I expected?",
+      "look_for": [
+        "Breathing that feels fast, shallow or hard to slow down.",
+        "A tight chest, a tight wetsuit neck, or anxiety about not seeing the bottom.",
+        "Walking straight in and starting at pace before your breathing has settled.",
+        "The phrase 'I am used to it' standing in for the dip today."
+      ],
+      "if_changes": [
+        "Stay in the shallows, chest under, and let your breathing settle before you go further.",
+        "Give yourself longer if you need it. There is no fixed time that works for everyone.",
+        "Start easy and short, and only build pace once your breathing feels normal.",
+        "If your breathing does not settle, get out. That is a normal outcome, not a failed swim."
+      ],
+      "note": "Cold shock research (Tipton and Bradford, Extreme Physiology & Medicine, 2014) describes the gasp and racing heart response peaking in the first thirty seconds and easing over about two minutes. It is driven by skin temperature, not fitness."
+    },
+    {
+      "letter": "B",
+      "name": "Body Check",
+      "tagline": "How am I actually feeling today?",
+      "body": [
+        "Tired, sick, sore, stressed, unusually anxious, or simply not quite yourself are all useful information. You do not need to diagnose yourself or anyone else. Notice what your body is telling you and let that information influence the swim you choose. If you are swimming with others, make it normal to say how you are feeling without embarrassment or pressure."
+      ],
+      "ask": "Does the swim I planned fit how I feel today?",
+      "look_for": [
+        "Chest pressure, unusual breathlessness, or dizziness, even briefly.",
+        "Fever, a heavy cold, or something you are still getting over.",
+        "A shoulder, joint or muscle problem that would change your stroke or make a self-rescue harder.",
+        "Alcohol, poor sleep, medication, or stress that may still be affecting you."
+      ],
+      "if_changes": [
+        "Say it out loud rather than starting and hoping. A pod cannot look out for what it does not know.",
+        "Choose a shorter swim, a shallow dip, or a walk along the shore instead.",
+        "If you feel unwell, sitting this one out is a normal and sensible choice.",
+        "Do not let the plan, the drive, or the group's expectation make the call for you."
+      ],
+      "note": "Research on triathlon and open water deaths reports cardiac events, rather than exhaustion or panic, as the leading cause. Symptoms were often noticed and brushed aside beforehand."
+    },
+    {
+      "letter": "L",
+      "name": "Locate",
+      "tagline": "Know where you are going and how you will get out.",
+      "body": [
+        "Before you set off, know the general route, the places you could get out early, where you can shorten the swim, and how you will reconnect with the people you are with. For a simple dip this may be nothing more than knowing where you entered and staying close to shore. For a longer swim it may require a much clearer plan."
+      ],
+      "ask": "If I wanted to stop early, do I know what I would do?",
+      "look_for": [
+        "Whether everyone knows the route, even someone who arrived late.",
+        "Exits along the way, and whether they are actually usable: rocks, weed, steep drops, slippery algae.",
+        "Where the group will regroup, and how often.",
+        "Whether everyone knows the signal that means stop or get out now."
+      ],
+      "if_changes": [
+        "Agree the route and exits before anyone swims away from shore.",
+        "Agree a simple signal before you swim. WOWSA briefings use three short whistle blasts to mean get out now.",
+        "If a whistle may not carry, agree a backup: one arm overhead pointing to the nearest exit.",
+        "Walk the exit you are relying on before you rely on it."
+      ],
+      "note": "Youghal, Ireland, 2023: who could stop the swim was disputed Two participants died during a triathlon swim leg at Youghal. Afterwards, Triathlon Ireland and Ironman publicly disputed sanctioning and authority for the event. In a small group the same gap appears differently: people who cannot say what 'get out now' looks like. Lesson: The signal to stop only works if it was agreed before anyone got in. It cannot be taught mid-swim."
+    },
+    {
+      "letter": "E",
+      "name": "Equip",
+      "tagline": "Take what makes sense for this swim.",
+      "body": [
+        "A short, familiar dip close to shore may require very little. A longer, colder, more exposed or unfamiliar swim may call for additional visibility, warmth, hydration, support or communication. Equipment should be proportional to the swim, the location, the conditions and the swimmer. A tow float is one possible tool where being seen and found matters more."
+      ],
+      "ask": "Is there anything that would make this particular swim more comfortable, visible or manageable?",
+      "look_for": [
+        "Whether the swim is long, cold, exposed, unfamiliar, or shared with boats and other water users.",
+        "A bright cap, a tow float, or another way to be seen from a distance.",
+        "Goggles that fit, are clear, and were checked before you get in.",
+        "Wetsuit fit, warmth for after the swim, hydration, a whistle, or earplugs if the venue calls for them."
+      ],
+      "if_changes": [
+        "Add only what this specific swim needs. There is no universal checklist for every swimmer.",
+        "If you are missing visibility gear, consider a shorter route, closer support, or a different day.",
+        "Lend or borrow gear if someone needs it, but do not pressure anyone into a swim they are not equipped for.",
+        "Change the swim rather than accepting a gap you cannot see past."
+      ],
+      "note": "Little Fistral, 2021: easier to find when help was needed A swimmer got into difficulty off Newquay while wearing a bright pink cap and tow float. The RNLI reported that the visibility of her equipment helped the person on shore identify her position and helped rescuers locate her quickly. Lesson: The right equipment depends on the swim. When visibility matters, something as simple as a bright cap or tow float can make you easier to see and locate."
+    }
+  ],
+  "decision": {
+    "title": "You checked in. Now choose the swim that fits today.",
+    "lede": [
+      "This is a personal decision, not a group vote. You are simply matching the swim you had in mind to the swimmer who is actually standing at the water's edge."
+    ],
+    "options": [
+      {
+        "label": "GO",
+        "lede": "This swim feels like a good fit today",
+        "body": [
+          "You are settling in, the planned swim fits how you feel, you know where you are going and how to get out, and you have what you need for this particular swim."
+        ]
+      },
+      {
+        "label": "ADJUST",
+        "lede": "Something feels a little different, so change the plan",
+        "body": [
+          "Change the distance, route, pace, time in the water, equipment, or company. Name the change, then make it before you set off."
+        ]
+      },
+      {
+        "label": "SKIP IT",
+        "lede": "Today does not feel like the day for this swim",
+        "body": [
+          "A symptom, rough day, poor sleep, unsettled breathing, or simply not feeling it. Skipping a swim is a normal outcome of checking in honestly."
+        ]
+      }
+    ],
+    "override": "When you swim with others, talk about what you notice and make it easy for anyone to change their own plan.",
+    "quick_check": "Of the four checks, which one are you most likely to skip on a day when everything looks fine? What would make it easier to check in with yourself anyway?"
+  },
+  "extra": {
+    "title": "Change Something",
+    "lede": [
+      "An adjustment only helps when you actually make it.",
+      "These are the simple changes swimmers make at the water's edge. Pick the one that answers the concern you noticed, and confirm it before you set off."
+    ],
+    "items": [
+      "Extend the dip: Longer in the shallows, chest under, breathing controlled, before any pace at all.",
+      "Simplify the route: A shorter loop, an earlier turn point, or staying inside your depth.",
+      "Add visibility: A bright cap, a tow float, or a buddy who stays with you the whole swim.",
+      "Give yourself a partner: One named person swimming beside you, at your pace, for the whole swim.",
+      "Shorten the swim: Swim the distance that fits today, even if it is shorter than you planned.",
+      "Move ashore: A dip, a walk, or a paddleboard. Being there is not the same as swimming."
+    ]
+  },
+  "compound": {
+    "lede": [
+      "Read the four checks together, not one at a time. A single factor may not change anything. Several factors together may suggest a different swim today."
+    ],
+    "items": [
+      "Maybe you slept badly.",
+      "Maybe the water is colder than usual.",
+      "Maybe the swim is longer than you normally do."
+    ],
+    "close": "None of those necessarily means you should not swim. Together, they may be a good reason to choose a shorter or easier version today. Look at the combination, not just each factor by itself."
+  },
+  "next": [
+    {
+      "kind": "Primary",
+      "label": "Continue with FLOW",
+      "desc": "Everyone is in. Now what are you watching for?",
+      "url": "https://www.openwaterswimming.com/learn/resources/flow-for-swimmers"
+    },
+    {
+      "kind": "Related",
+      "label": "Revisit CHECK for Swimmers",
+      "desc": "The before-entry read of the water, the group and the day.",
+      "url": "https://www.openwaterswimming.com/learn/resources/check-framework-for-swimmers"
+    },
+    {
+      "kind": "Explore",
+      "label": "Open Water Swimming Foundations",
+      "desc": "Swimmer education covering preparation, sighting and judgment. In development, announced when published.",
+      "url": "https://www.openwaterswimming.com/learn"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Tipton and Bradford, cold and warm water immersion: a review of the physiological responses relevant to open water swimming",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4052348/"
+    },
+    {
+      "label": "Harris et al., death and cardiac arrest in United States triathlon participants",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28975231/"
+    },
+    {
+      "label": "HM Coastguard, swimmer in Cornwall had done all she could to aid her own rescue",
+      "url": "https://hmcoastguard.uk/swimmer-cornwall-had-done-all-she-could-aid-her-own-rescue"
+    },
+    {
+      "label": "RTE Prime Time, reports into the Ironman event at Youghal and how the races proceeded",
+      "url": "https://www.rte.ie/news/primetime/2023/0921/1406657-reports-into-ironman-event-shed-new-light-on-how-races-proceeded/"
+    }
+  ],
+  "slug": "able-for-swimmers",
+  "filename": "able-for-swimmers.pdf"
+}

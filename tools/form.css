@@ -1,0 +1,206 @@
+/* WOWSA fillable form template. Same design tokens as the approved CHECK standard. */
+
+:root {
+  --cream:      #F6F2E6;
+  --cream-soft: #FBF8EF;
+  --navy:       #14263B;
+  --body:       #2B3441;
+  --orange:     #FF4F00;
+  --muted:      #6E7681;
+  --rule:       #E0DACA;
+  --field:      #FFFFFF;
+}
+
+@page { size: letter; margin: 0; }
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0; padding: 0;
+  background: var(--cream);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+body {
+  font-family: "Source Sans 3", "Source Sans Pro", Arial, sans-serif;
+  font-size: 8.4pt;
+  line-height: 1.35;
+  color: var(--body);
+}
+
+.page {
+  position: relative;
+  width: 8.5in; height: 11in;
+  padding: 0.42in 0.56in 0.58in 0.56in;
+  overflow: hidden;
+  page-break-after: always;
+}
+.page:last-child { page-break-after: auto; }
+
+/* ---------- header ---------- */
+.head { display: flex; align-items: center; gap: 13px; }
+.seal { width: 50px; height: 50px; flex: 0 0 50px; }
+h1 {
+  font-family: "Oswald", "Arial Narrow", sans-serif;
+  font-weight: 700; font-size: 24pt; line-height: 1;
+  margin: 0; color: var(--navy); text-transform: uppercase;
+}
+.deck {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 600; font-size: 8.2pt; letter-spacing: 1.1px;
+  text-transform: uppercase; color: var(--navy); margin-top: 5px;
+}
+.head-rule { border-top: 3px solid var(--navy); margin: 9px 0 12px; }
+
+/* ---------- section ---------- */
+.sec-head { display: flex; align-items: center; gap: 9px; margin-bottom: 3px; }
+.sec-bar { width: 5px; height: 17px; background: var(--orange); flex: 0 0 5px; }
+h2 {
+  font-family: "Oswald", sans-serif;
+  font-weight: 600; font-size: 12.5pt; line-height: 1;
+  margin: 0; text-transform: uppercase; color: var(--navy);
+  letter-spacing: 0.3px;
+}
+.sec-rule { border-top: 1.5px solid var(--orange); margin: 5px 0 8px; }
+.sec { margin-bottom: 11px; }
+.hint { color: var(--muted); margin: 0 0 7px; }
+
+/* ---------- labeled fields ---------- */
+.row { display: flex; gap: 10px; margin-bottom: 8px; }
+.f { flex: 1; }
+.f label {
+  display: block;
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 600; font-size: 7.4pt; letter-spacing: 1.1px;
+  text-transform: uppercase; color: var(--muted); margin-bottom: 3px;
+}
+.box {
+  display: block;
+  height: 22px;
+  background: var(--field);
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  text-decoration: none;
+}
+.box.tall { height: 46px; }
+.box.xtall { height: 60px; }
+
+/* ---------- legend ---------- */
+.legend {
+  display: flex; gap: 22px; margin: 4px 0 7px;
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-size: 8pt; letter-spacing: 0.5px;
+}
+.legend b { font-weight: 700; text-transform: uppercase; letter-spacing: 1px; }
+.legend .lo b { color: #2E7D5B; }
+.legend .me b { color: #B5925C; }
+.legend .hi b { color: var(--orange); }
+.legend span { color: var(--muted); }
+
+/* ---------- table ---------- */
+table { width: 100%; border-collapse: collapse; }
+thead th {
+  background: var(--navy); color: #fff;
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 700; font-size: 7.6pt; letter-spacing: 1.2px;
+  text-transform: uppercase; text-align: left;
+  padding: 6px 9px;
+}
+tbody td { padding: 5px 6px; vertical-align: middle; border: 0; }
+tbody tr:nth-child(even) { background: var(--cream-soft); }
+tbody td:first-child { padding-left: 9px; }
+tbody td:last-child  { padding-right: 9px; }
+
+/* ---------- radios ---------- */
+.radios { display: flex; gap: 12px; align-items: center; }
+.radios.stack { display: block; }
+.radios.stack .opt { display: flex; align-items: center; gap: 5px; margin: 2px 0; }
+.opt { display: flex; align-items: center; gap: 5px; }
+.dot {
+  display: inline-block; width: 11px; height: 11px;
+  border: 1.2px solid var(--navy); border-radius: 50%;
+  background: var(--field); text-decoration: none; flex: 0 0 11px;
+}
+.opt em {
+  font-style: normal;
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 600; font-size: 7.8pt; letter-spacing: 0.6px;
+  text-transform: uppercase;
+}
+.opt.lo em { color: #2E7D5B; }
+.opt.me em { color: #B5925C; }
+.opt.hi em { color: var(--orange); }
+
+/* decision pills */
+.decision { display: flex; gap: 10px; margin: 6px 0 8px; }
+.pill-opt {
+  flex: 1; display: flex; align-items: center; justify-content: center; gap: 8px;
+  border: 1px solid var(--rule); background: var(--cream-soft);
+  padding: 9px 10px; border-radius: 3px;
+}
+.pill-opt em {
+  font-style: normal;
+  font-family: "Oswald", sans-serif;
+  font-weight: 600; font-size: 10.5pt; letter-spacing: 1.4px;
+  text-transform: uppercase; color: var(--navy);
+}
+
+/* ---------- callout ---------- */
+.callout {
+  background: var(--cream-soft);
+  border: 1px solid var(--rule);
+  border-left: 4px solid var(--orange);
+  padding: 10px 13px;
+}
+.callout h3 {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 700; font-size: 9pt; letter-spacing: 1.1px;
+  text-transform: uppercase; color: var(--navy); margin: 0 0 3px;
+}
+.callout p { margin: 0 0 7px; color: var(--muted); }
+
+/* ---------- footer ---------- */
+.foot {
+  position: absolute; left: 0; right: 0; bottom: 0;
+  height: 0.38in; background: var(--navy); color: #fff;
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 0 0.56in;
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 700; font-size: 7.8pt; letter-spacing: 1.4px;
+  text-transform: uppercase;
+}
+
+/* ---------- checkboxes ---------- */
+label.stand {
+  display: block;
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 600; font-size: 7.4pt; letter-spacing: 1.1px;
+  text-transform: uppercase; color: var(--muted); margin-bottom: 4px;
+}
+.checks { display: flex; flex-wrap: wrap; }
+.ck { display: flex; align-items: center; gap: 6px; margin: 3px 0; padding-right: 8px; }
+.chk {
+  display: inline-block; width: 11px; height: 11px; flex: 0 0 11px;
+  border: 1.2px solid var(--navy); border-radius: 2px;
+  background: var(--field); text-decoration: none;
+}
+.ck span { font-size: 8.2pt; color: var(--body); }
+
+/* ---------- scenario ---------- */
+.scn {
+  border: 1px solid var(--rule); border-left: 4px solid var(--orange);
+  background: var(--cream-soft); padding: 8px 11px; margin-bottom: 8px;
+}
+.scn-t {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 700; font-size: 8.8pt; letter-spacing: 0.9px;
+  text-transform: uppercase; color: var(--navy); margin-bottom: 5px;
+}
+.scn .row { margin-bottom: 0; }
+
+/* ---------- label + field grid ---------- */
+table.grid td.lead {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 600; font-size: 8pt; letter-spacing: 0.5px;
+  color: var(--navy); padding-left: 9px;
+}

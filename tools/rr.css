@@ -1,0 +1,242 @@
+/* Reading Risk guides. Same palette and type as the approved CHECK file,
+   laid out to flow rather than to fixed pages, because guide length varies. */
+
+:root {
+  --cream:      #F6F2E6;
+  --cream-soft: #FBF8EF;
+  --navy:       #14263B;
+  --body:       #2B3441;
+  --orange:     #FF4F00;
+  --muted:      #6E7681;
+  --rule:       #E0DACA;
+}
+
+@page { size: letter; margin: 0; }
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0; padding: 0;
+  background: var(--cream);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+body {
+  font-family: "Source Sans 3", "Source Sans Pro", Arial, sans-serif;
+  font-size: 9.1pt;
+  line-height: 1.42;
+  color: var(--body);
+}
+
+.sheet {
+  position: relative;
+  width: 8.5in; height: 11in;
+  padding: 0.62in 0.56in;
+  overflow: hidden;
+  background: var(--cream);
+  page-break-after: always;
+}
+.sheet:last-child { page-break-after: auto; }
+
+/* measuring pass renders the blocks in a plain column of the same width */
+.measure { width: 7.38in; }
+
+/* Each block is its own formatting context in both passes. That stops margins
+   collapsing through the wrapper, so the height measured is exactly the height
+   the block occupies once it is placed on a sheet. */
+.measure > .mb, .sheet > .blk { display: flow-root; }
+
+p { margin: 0 0 6px; }
+a { color: var(--navy); text-decoration: none; word-break: break-word; }
+
+/* ---------- cover ---------- */
+.cover { height: 9.76in; display: flex; flex-direction: column; }
+.cover .seal { width: 74px; height: 74px; }
+.eyebrow {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 700; font-size: 8.4pt; letter-spacing: 2.2px;
+  text-transform: uppercase; color: var(--orange);
+  margin: 22px 0 10px;
+}
+.acronym {
+  font-family: "Oswald", "Arial Narrow", sans-serif;
+  font-weight: 700; font-size: 68pt; line-height: 0.94;
+  letter-spacing: -1px; color: var(--navy);
+  text-transform: uppercase; margin: 0;
+}
+.cover .tagline {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 600; font-size: 13pt; letter-spacing: 1.5px;
+  text-transform: uppercase; color: var(--orange); margin-top: 6px;
+}
+.cover .rule { border-top: 3px solid var(--navy); margin: 16px 0 14px; }
+.cover h1 {
+  font-family: "Oswald", sans-serif;
+  font-weight: 600; font-size: 20pt; line-height: 1.1;
+  color: var(--navy); text-transform: uppercase; margin: 0 0 8px;
+}
+.cover .deck { font-size: 11pt; line-height: 1.45; max-width: 5.9in; }
+.compline {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 600; font-size: 9.6pt; letter-spacing: 1.5px;
+  text-transform: uppercase; color: var(--navy);
+  border-left: 3px solid var(--orange);
+  background: var(--cream-soft);
+  padding: 9px 14px; margin: 16px 0 0;
+}
+.cover .spacer { flex: 1; }
+.whobox { border: 1px solid var(--rule); background: var(--cream-soft); padding: 12px 15px; }
+.whobox .lbl, .online .lbl {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 700; font-size: 7.8pt; letter-spacing: 1.6px;
+  text-transform: uppercase; color: var(--navy); margin-bottom: 4px;
+}
+.online { margin-top: 12px; }
+.online a { color: var(--orange); font-weight: 600; }
+.colophon { color: var(--muted); font-size: 8pt; margin-top: 14px; line-height: 1.4; }
+
+/* ---------- generic section head ---------- */
+.kicker {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 700; font-size: 8pt; letter-spacing: 1.9px;
+  text-transform: uppercase; color: var(--orange); margin-bottom: 3px;
+}
+h2.big {
+  font-family: "Oswald", sans-serif;
+  font-weight: 700; font-size: 19pt; line-height: 1.05;
+  text-transform: uppercase; color: var(--navy); margin: 0 0 4px;
+}
+.headrule { border-top: 3px solid var(--navy); margin: 8px 0 11px; }
+
+/* ---------- component ---------- */
+.comp { margin-bottom: 16px; }
+.comp-head { break-after: avoid; page-break-after: avoid; }
+.comp-head { display: flex; align-items: flex-start; gap: 11px; }
+.badge {
+  width: 30px; height: 30px; flex: 0 0 30px;
+  background: var(--orange); color: #fff;
+  font-family: "Oswald", sans-serif;
+  font-weight: 700; font-size: 15pt; line-height: 30px;
+  text-align: center;
+}
+.comp h3 {
+  font-family: "Oswald", sans-serif;
+  font-weight: 700; font-size: 16pt; line-height: 1;
+  text-transform: uppercase; color: var(--navy); margin: 0;
+}
+.comp .q {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 600; font-size: 9pt; letter-spacing: 0.9px;
+  text-transform: uppercase; color: var(--muted); margin-top: 4px;
+}
+.comp-rule { border-top: 1.5px solid var(--orange); margin: 7px 0 8px; }
+.ask {
+  border-left: 3px solid var(--navy);
+  background: var(--cream-soft);
+  padding: 8px 13px; margin: 8px 0 10px;
+}
+.ask .lbl {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 700; font-size: 7.6pt; letter-spacing: 1.6px;
+  text-transform: uppercase; color: var(--orange); margin-bottom: 2px;
+}
+.ask .q2 { font-size: 10pt; font-weight: 600; color: var(--navy); }
+.cols { display: flex; gap: 20px; }
+.col { flex: 1; }
+.col .lbl {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 700; font-size: 7.8pt; letter-spacing: 1.5px;
+  text-transform: uppercase; color: var(--navy);
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 3px; margin-bottom: 6px;
+}
+ul { margin: 0; padding: 0; list-style: none; }
+li { position: relative; padding-left: 12px; margin-bottom: 5px; }
+li:before {
+  content: ""; position: absolute; left: 0; top: 0.42em;
+  width: 4px; height: 4px; background: var(--orange);
+}
+.tail { font-style: italic; color: var(--navy); margin-top: 9px; }
+
+/* ---------- decision ---------- */
+.opts { margin: 10px 0 4px; }
+.opt {
+  border: 1px solid var(--rule);
+  border-left: 3px solid var(--orange);
+  background: var(--cream-soft);
+  padding: 9px 14px; margin-bottom: 7px;
+  page-break-inside: avoid;
+}
+.opt .k {
+  font-family: "Oswald", sans-serif;
+  font-weight: 700; font-size: 11.5pt; letter-spacing: 0.6px;
+  text-transform: uppercase; color: var(--navy);
+}
+.opt .k .dash { color: var(--orange); }
+.opt .lede { font-weight: 600; color: var(--navy); margin-bottom: 3px; }
+.pairs { display: flex; gap: 18px; margin-top: 10px; }
+.pair { flex: 1; border-top: 2px solid var(--navy); padding-top: 7px; }
+.pair .lbl {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 700; font-size: 7.8pt; letter-spacing: 1.5px;
+  text-transform: uppercase; color: var(--orange); margin-bottom: 3px;
+}
+
+/* ---------- next steps and sources ---------- */
+.nxt { border-top: 1px solid var(--rule); padding: 9px 0; page-break-inside: avoid; }
+.nxt .kind {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 700; font-size: 7.6pt; letter-spacing: 1.6px;
+  text-transform: uppercase; color: var(--orange);
+}
+.nxt .lab {
+  font-family: "Oswald", sans-serif;
+  font-weight: 600; font-size: 12pt; text-transform: uppercase;
+  color: var(--navy); margin: 2px 0 2px;
+}
+.nxt .u { font-size: 7.8pt; color: var(--muted); }
+.src { margin-bottom: 7px; page-break-inside: avoid; }
+.src .t { font-weight: 600; color: var(--navy); }
+.src .u { font-size: 7.8pt; color: var(--muted); }
+.endnote {
+  border-top: 3px solid var(--navy);
+  margin-top: 14px; padding-top: 9px;
+  font-size: 8pt; color: var(--muted);
+}
+
+/* ---------- Compound Risk blocks ---------- */
+.grp {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 700; font-size: 9.4pt; letter-spacing: 1.3px;
+  text-transform: uppercase; color: var(--navy);
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 3px; margin: 11px 0 7px;
+}
+.step { display: flex; gap: 11px; margin: 11px 0 8px; page-break-inside: avoid; }
+.step .n {
+  width: 26px; height: 26px; flex: 0 0 26px;
+  background: var(--navy); color: #fff;
+  font-family: "Oswald", sans-serif;
+  font-weight: 700; font-size: 12.5pt; line-height: 26px; text-align: center;
+}
+.step h4 {
+  font-family: "Oswald", sans-serif;
+  font-weight: 700; font-size: 13pt; line-height: 1;
+  text-transform: uppercase; color: var(--navy); margin: 0 0 3px;
+}
+.step .q {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 600; font-size: 9pt; letter-spacing: 0.8px;
+  text-transform: uppercase; color: var(--orange); margin-bottom: 4px;
+}
+.notebox {
+  border-left: 3px solid var(--navy);
+  background: var(--cream-soft);
+  padding: 8px 13px; margin: 9px 0;
+}
+.notebox .lbl {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 700; font-size: 7.6pt; letter-spacing: 1.6px;
+  text-transform: uppercase; color: var(--navy); margin-bottom: 2px;
+}

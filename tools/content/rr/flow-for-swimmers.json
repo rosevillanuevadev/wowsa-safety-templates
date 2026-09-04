@@ -1,0 +1,189 @@
+{
+  "eyebrow": "READING RISK | FOR SWIMMERS",
+  "acronym": "FLOW",
+  "tagline": "Read change",
+  "title": "FLOW for Swimmers",
+  "deck": "Keep noticing while you swim, and let the plan change when the day does.",
+  "components_line": "Feel · Listen · Orient · Weigh",
+  "who": "For anyone in the water: a pod, a pair, a training swim, or a solo swim with someone watching from shore. Nobody is in charge. Everyone is paying attention, to themselves and to each other.",
+  "canonical": "https://www.openwaterswimming.com/learn/resources/flow-for-swimmers",
+  "colophon": "Published by the World Open Water Swimming Association. This PDF is generated from the canonical WOWSA Learn guide, so the web and PDF versions always match.",
+  "intro_title": "FLOW for Swimmers",
+  "intro": [
+    "CHECK is about the water and the day. ABLE is about you at the water's edge. FLOW is what happens once you are swimming, when the water, the people around you and how you feel can all change.",
+    "You do not need to watch everything. Just keep noticing what has changed, say something when it matters, and be willing to change your own plan."
+  ],
+  "components_sub": "Feel · Listen · Orient · Weigh",
+  "components": [
+    {
+      "letter": "F",
+      "name": "Feel",
+      "tagline": "Notice the change early, while it is still small.",
+      "body": [
+        "Trouble in open water rarely announces itself. The useful moment is the early one, when something simply feels different. You may also notice that someone you are swimming with has gone quiet, dropped back or seems less comfortable. You do not need to decide what is wrong. Sometimes simply checking in is enough."
+      ],
+      "ask": "Does anything feel different from a few minutes ago?",
+      "look_for": [
+        "Breathing that will not settle, or a stroke that has become hard work.",
+        "Cold reaching your hands, feet or thinking, rather than just your skin.",
+        "Someone you set off with going quiet, dropping back, or swimming differently.",
+        "An uneasy feeling you would usually talk yourself out of."
+      ],
+      "if_changes": [
+        "Say something straight away rather than swimming on to see whether it passes.",
+        "If something seems off, check in. If it is you, say so.",
+        "Turn toward the nearest exit while you still have plenty left, not once you are struggling.",
+        "Treat your own uneasy feeling as information. You do not need proof to head in."
+      ],
+      "note": "A person in real trouble may not be able to wave, call out or grab a rescuer. Waiting for a dramatic signal means waiting for something that may never come."
+    },
+    {
+      "letter": "L",
+      "name": "Listen",
+      "tagline": "Say what you mean. Make it easy for others to do the same.",
+      "body": [
+        "If someone says, \"I feel a bit strange,\" they do not need to explain it perfectly. Ask what they want to do next, and take the answer seriously. The same goes for you: the honest version is more useful than the tidy one."
+      ],
+      "ask": "Is there something I need to say, or something someone else is trying to tell me?",
+      "look_for": [
+        "Yourself downplaying something so the swim can continue.",
+        "A friend answering with a shrug rather than a sentence.",
+        "The pull of the group's plan making it awkward to say you have had enough."
+      ],
+      "if_changes": [
+        "Say it plainly, even when the honest answer shortens the swim.",
+        "Ask what someone wants to do next, rather than what is wrong with them.",
+        "If someone wants to shorten their swim or head in, make that easy.",
+        "Make it normal in your group that anyone can end their own swim without explaining themselves twice."
+      ],
+      "note": ""
+    },
+    {
+      "letter": "O",
+      "name": "Orient",
+      "tagline": "Stay findable, and keep track of each other.",
+      "body": [
+        "Groups spread out. Fast swimmers pull ahead, others drop back, and after twenty minutes nobody is quite sure where everyone is. Light, fog and chop do the same thing from the outside. If nobody can see you, nobody can help you quickly."
+      ],
+      "ask": "Do I know where I am, where the others are, and whether we can still see one another?",
+      "look_for": [
+        "How long it has been since you last saw everyone you set off with.",
+        "Visibility dropping: fog, glare, fading light, building chop.",
+        "Drifting away from your line, the shore, or your agreed route.",
+        "Boats or paddlecraft moving through the area you are swimming in."
+      ],
+      "if_changes": [
+        "Close the gap. Regroup, or swim back toward the person who is furthest away.",
+        "Sight more often and swim a line that keeps you inside the area you agreed on.",
+        "If you can no longer see the group or the shore markers you were using, head in.",
+        "If visibility matters for this swim, a bright cap or tow float can make you easier to see."
+      ],
+      "note": ""
+    },
+    {
+      "letter": "W",
+      "name": "Weigh",
+      "tagline": "The water you got into is not always the water you are in now.",
+      "body": [
+        "Current builds, wind gets up, the tide turns, and cold accumulates quietly. The swim you decided on at the beach was decided in different conditions. Weigh is simply asking the same question again, part way through."
+      ],
+      "ask": "Knowing what it is like now, would I still set off on this swim?",
+      "look_for": [
+        "Progress that has slowed even though your effort has not.",
+        "Being pushed off your line despite sighting properly.",
+        "Getting colder rather than settling, especially in your hands and feet.",
+        "The return leg looking harder than the outward one."
+      ],
+      "if_changes": [
+        "One change may simply mean paying closer attention.",
+        "Several changes together may mean changing the swim. Shorten it, turn early, or come in.",
+        "Decide while you still have plenty in reserve. The decision gets worse the longer you leave it.",
+        "Coming in early is a good swim that ended sensibly, not a swim you failed."
+      ],
+      "note": ""
+    }
+  ],
+  "decision": {
+    "title": "You noticed something. What fits now?",
+    "lede": [
+      "You are making this decision over and over while you swim, not once. What matters is acting soon after you notice, rather than waiting for something obvious."
+    ],
+    "options": [
+      {
+        "label": "KEEP GOING",
+        "lede": "The swim still fits",
+        "body": [
+          "You feel steady, everyone is accounted for, you can be seen, and conditions are what you set off in."
+        ]
+      },
+      {
+        "label": "ADJUST",
+        "lede": "Change the swim, stay in",
+        "body": [
+          "Turn earlier, swim closer to shore, regroup, slow down, or move inside a smaller area. Say the change out loud so the people with you know."
+        ]
+      },
+      {
+        "label": "HEAD IN",
+        "lede": "This swim ends now",
+        "body": [
+          "Cold that is not settling, breathing that will not settle, something that feels wrong, or a group you can no longer see. Go to the nearest exit, together."
+        ]
+      }
+    ],
+    "override": "The moment you notice is the moment to act. Nothing about open water gets easier by waiting to be sure.",
+    "quick_check": "Think about your last swim. Was there a moment when you noticed something and kept going anyway? What would have made it easier to say it out loud?"
+  },
+  "extra": {
+    "title": "Signals",
+    "lede": [
+      "Two signals worth knowing when you swim with others.",
+      "These are WOWSA's practical adaptation of established International Life Saving Federation lifeguard hand signals, not a universal swimmer code. They are simple enough to produce when you are tired or frightened, and they look nothing like a normal stroke or a friendly wave."
+    ],
+    "items": [
+      "I'm OK: Touch the top of your head with the fingertips of one hand. It answers the question, but it does not mean stop watching each other.",
+      "I need help: One arm overhead, waved side to side. Use it early. Nobody will think less of you for using it and being fine.",
+      "If you see it: Respond immediately. Do not wait for a second wave or shout across to check first.",
+      "Not the same as the abort signal: In a WOWSA briefing, three whistle blasts, or an arm overhead pointing to the exit, means everyone gets out. That is a group signal. These two are about one swimmer."
+    ]
+  },
+  "compound": {
+    "lede": [
+      "Read the four together. On their own each is minor, and that is exactly why they get waved through."
+    ],
+    "items": [
+      "Maybe you are a little colder than usual.",
+      "Maybe the group has spread out.",
+      "Maybe the wind has picked up on the way back."
+    ],
+    "close": "Any one of those is a normal swim. All three at once describe a cold swimmer, on their own, with a harder return than planned. Notice the combination, and turn in early."
+  },
+  "next": [
+    {
+      "kind": "Primary",
+      "label": "Continue with CARE",
+      "desc": "You are out of the water. What matters in the next hour?",
+      "url": "https://www.openwaterswimming.com/learn/resources/care-for-swimmers"
+    },
+    {
+      "kind": "Related",
+      "label": "Revisit ABLE for Swimmers",
+      "desc": "The check-in at the water's edge, before you set off.",
+      "url": "https://www.openwaterswimming.com/learn/resources/able-for-swimmers"
+    },
+    {
+      "kind": "Explore",
+      "label": "Open Water Swimming Foundations",
+      "desc": "Swimmer education covering preparation, sighting and judgment. In development, announced when published.",
+      "url": "https://www.openwaterswimming.com/learn"
+    }
+  ],
+  "sources": [
+    {
+      "label": "International Life Saving Federation, lifesaving position statement on hand signals",
+      "url": "https://www.ilsf.org/wp-content/uploads/2019/01/LPS-12-2012-Hand-Signals.pdf"
+    }
+  ],
+  "slug": "flow-for-swimmers",
+  "filename": "flow-for-swimmers.pdf"
+}
