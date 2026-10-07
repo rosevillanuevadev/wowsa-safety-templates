@@ -213,7 +213,7 @@ git add <slug>.pdf && git commit && git push
 Confirm the raw URL serves the file and the checksum still matches after upload:
 
 ```
-curl -L https://raw.githubusercontent.com/rose2023va/wowsa-safety-templates/main/<slug>.pdf -o check.pdf
+curl -L https://raw.githubusercontent.com/rosevillanuevadev/wowsa-safety-templates/main/<slug>.pdf -o check.pdf
 shasum -a 256 check.pdf
 ```
 
